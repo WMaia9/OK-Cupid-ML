@@ -1,4 +1,4 @@
-# OK Cupid Michine Learning Project
+# OK Cupid Machine Learning Project
 
 # Introdution
 
